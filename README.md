@@ -249,7 +249,7 @@ def UserSimilarity(games, game_hours):
     return new_rec
 ```
 
-## 3. Integrated Recommender System Demo
+## 3. Integrated Recommendation System
 - **Interface Development**: Detailed description of the PyQt5 GUI, including layout design, event handling, and user input processing for a seamless user experience.
 - **Integration with Backend Systems**: Connects the GUI with backend Python scripts that process data and generate recommendations, ensuring real-time responsiveness and interaction.
 
@@ -260,7 +260,7 @@ def UserSimilarity(games, game_hours):
 - Labels for displaying hours played.
 - Buttons for entering hours and initiating the recommendation process.
 
-### 3.2 GUI Initialization:
+### 3.2 Recommendation System Demo:
 
 #### 3.2.1 Game Name Entry:
 - Each ComboBox allows users to type and select from a pre-populated list of games. Autocompletion is enabled to improve the user experience.
