@@ -1,5 +1,5 @@
 # Steam Game Recommendation System
-#### *CS 777 Team Project in 2024 (Shuaijun LIU, Xinyi XIE)
+
 <p align="center">
 <img src="Image/STEAM1.png"  style="width: 800px;"/>
 </p>
@@ -8,7 +8,7 @@
 
 ### 1.1 Introduction
 
-This README outlines a multi-phase Team Project for CS777 course, aimed at extracting, processing, and analyzing user and game data from Steam, followed by constructing and deploying a sophisticated machine learning-based game recommendation system. Each step involves specific tools, methodologies, and insights aimed at understanding user behavior and improving game recommendations.
+This README outlines a multi-phase Project aimed at extracting, processing, and analyzing user and game data from Steam, followed by constructing and deploying a sophisticated machine learning-based game recommendation system. Each step involves specific tools, methodologies, and insights aimed at understanding user behavior and improving game recommendations.
 
 **Keywords: Recommendation System, Spark, Web Crawler, Big Data Analysis**
 
