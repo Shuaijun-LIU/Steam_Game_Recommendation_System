@@ -1,4 +1,4 @@
-## Environment Setup Guide for CS777 Team Project
+## Environment Setup Guide
 
 Welcome to our Game Recommendation System project! Before you begin, you need to make sure that all the necessary Python libraries are installed. This guide will assist you in installing these libraries via the command line.
 
