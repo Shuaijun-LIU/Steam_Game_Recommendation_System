@@ -1,4 +1,4 @@
-# Steam API Usage Guide for CS777 Team Project
+# Steam API Usage Guide
 
 ## Introduction
 
