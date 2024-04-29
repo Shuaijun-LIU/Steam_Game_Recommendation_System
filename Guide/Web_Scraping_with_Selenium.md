@@ -1,6 +1,6 @@
-## Web Scraping with Selenium for CS777 Team Project
+## Web Scraping with Selenium
 
-This guide is prepared specifically for the Team Project in the CS 777 course, 2024. It will walk you through the steps required to set up your environment for running a Selenium-based web scraping script. You will learn how to install necessary Python packages and configure Chromedriver on different operating systems.
+This guide will walk you through the steps required to set up your environment for running a Selenium-based web scraping script. You will learn how to install necessary Python packages and configure Chromedriver on different operating systems.
 
 ### Prerequisites
 
