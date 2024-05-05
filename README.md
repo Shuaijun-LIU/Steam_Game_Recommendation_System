@@ -1,4 +1,5 @@
 # Steam Game Recommendation System
+### <u>*Author:</u> [Shuaijun Liu: — Click here to go to my Personal Web Page](https://shuaijun-liu.github.io/)
 
 <p align="center">
 <img src="Image/STEAM1.png"  style="width: 800px;"/>
