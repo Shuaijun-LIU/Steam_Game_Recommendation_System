@@ -22,6 +22,11 @@ Welcome to our Steam Game Recommendation System project!  Before you start, you 
 You can click on the links above to jump to the appropriate Guide.
 
 ## 2. Architecture
+
+<p align="center">
+<img src="Image/FLOW.png"  style="width: 800px;"/>
+</p>
+
 ### 2.1 Data Extraction and Preprocessing
 
 #### 2.1.1 User ID Collection
